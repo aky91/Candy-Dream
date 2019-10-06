@@ -1,2 +1,2 @@
 # Candy-Dream
-Fun things JavaScript can do.
+Fun things JavaScript and Processing3 can do.
